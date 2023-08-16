@@ -5,14 +5,22 @@ Bienvenido al repositorio de **Introducción a Swift**. En este repositorio, enc
 
 ## Contenido
 
-- [¿Qué es Swift?](#qué-es-swift)
-- [Configuración del entorno](#configuración-del-entorno)
-- [Sintaxis básica](#sintaxis-básica)
-- [Tipos de datos](#tipos-de-datos)
-- [Estructuras de control](#estructuras-de-control)
-- [Funciones](#funciones)
-- [Clases y objetos](#clases-y-objetos)
-- [Gestión de errores](#gestión-de-errores)
+- [Introducción a MacOS](#Introducción-a-MacOS)
+- [Introducción a PlayGround](#Introducción-a-Playground)
+- [Hola Mundo](#Hola-mundo)
+- [Comentarios](#Comentarios)
+- [Tipos de Datos](#Tipos-de-Datos)
+- [Constantes y Variables](#Constantes-y-variables)
+- [Reglas de nombres para variables (camelCase](#Reglas-de-nombres-para-variables-(camelCase))
+- [Operadores aritméticos](#Operadores-aritméticos)
+- [Convertir tipo de Datos](#Convertir-tipo-de-datos)
+- [Cadenas Extendidas](#Cadenas-Extendidas)
+- [Tipos de datos personalizados(struct)](#Tipos-de-datos-personalizados(struct))
+- [Seguridad de tipos](#Seguridad-de-tipos)
+- [Largue Numbers](#Largue-Numbers)
+- [Inferencia de tipo](#Inferencia-de-tipo)
+- [Casos comunes de uso de tipado explícito](#Casos-comunes-de-uso-de-tipado-explicito)
+-  
 
 ## ¿Qué es Swift?
 
